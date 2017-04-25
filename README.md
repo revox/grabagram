@@ -13,4 +13,4 @@ allow you to archive locations or profiles as the page layout is the same.
 Images will be stored in a folder in the CWD that will be created with the tag name.
 A CSV file will be created in the same directory with some of the meta data. NB
 This code relies on CSS selectors so will get broken by some future update of the
-target site. 
+target site. To run the code just type 'python grabagram.py' from the terminal.
