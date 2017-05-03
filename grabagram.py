@@ -133,7 +133,7 @@ class Gramatron():
                     time.sleep(randint(3,5))
 
         except TimeoutException:
-            # this will be triggered if they change th classes in then UI
+            # this will be triggered if they change the classes in then UI
             print("Page element not found in Instagram.com or the site is currently unreachable")
 
         print "FINISHED"
